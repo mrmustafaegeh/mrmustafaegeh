@@ -1,41 +1,83 @@
-# 💫 About Me:
-## Hi there 👋<br><br>**[Mustafa Egeh](https://portfolio-web-vuj7.vercel.app/)** is my name.<br>As a frontend engineer, my goal is to create scalable, high-performing web applications with a focus on frontend architecture and long-term maintainability. I spend a lot of time working with sophisticated React patterns, optimizing rendering and data fetching, and fine-tuning performance in practical products. I like taking ownership of challenging user interface issues, debugging large-scale systems, and creating dependable systems as applications expand.<br><br>
+# 💫 About Me
 
-- 🔭 Right now, I'm designing and refining Next.js and React applications for performance and scalability <br>
+## Hi there 👋
 
-- 🌱. I'm currently honing my skills in frontend system design, rendering optimization, and advanced JavaScript patterns <br>
+**[Mustafa Egeh](https://portfolio-web-vuj7.vercel.app/)** here — Frontend Engineer focused on building **scalable, high-performance web applications** with modern JavaScript frameworks.
 
-- 👯. Large-scale React, Next.js, and performance-critical frontend projects are what I'm looking to work on with others.<br>
+I specialize in **React and Next.js**, with a strong emphasis on **frontend architecture, performance optimization, and maintainable UI systems**. My work revolves around solving real-world product problems: optimizing rendering and data fetching, structuring large React applications, and ensuring clean, predictable state management as projects scale.
 
+I enjoy taking ownership of complex UI challenges, debugging production-level issues, and turning business requirements into reliable, well-engineered frontend solutions.
 
+- 🔭 **Currently:** Designing and refining React & Next.js applications with a focus on performance, scalability, and clean architecture  
+- 🌱 **Learning & Improving:** Frontend system design, advanced JavaScript (ES6+), rendering optimization, and state/data management patterns  
+- 👯 **Open to collaborate on:** Performance-critical React/Next.js projects, scalable frontend systems, and product-driven applications  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mr-mustafaegeh/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mustafa omar Egeh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.mustafaegeh@gmail.com) 
+---
 
+## 🌐 Socials
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-mustafaegeh/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.mustafaegeh@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=FF7139)](https://portfolio-web-vuj7.vercel.app/)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+---
 
+# 💻 Tech Stack
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrmustafaegeh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mrmustafaegeh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmustafaegeh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Core Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+### Styling & UI
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Data (Frontend-Focused)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+
+### Tooling & Workflow
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mrmustafaegeh&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=mrmustafaegeh&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmustafaegeh&theme=dark&layout=compact&hide_border=false)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mrmustafaegeh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=mrmustafaegeh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mrmustafaegeh&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=mrmustafaegeh&icon=2&color=0)](https://visitcount.itsvg.in)
